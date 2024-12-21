@@ -5,6 +5,8 @@ This project leverages blockchain technology to provide an engaging and educatio
 
 ## Contract Address
 0x0b72357056D1BEAfD7c47270AA34feae96919D56
+![image](https://github.com/user-attachments/assets/a0933530-b99a-4663-8c7c-97fef277b3e3)
+
 
 ## Project Vision
 Our vision is to foster global cultural understanding and appreciation by creating an immersive and decentralized educational platform. By gamifying the learning experience, we aim to encourage players to explore diverse traditions, values, and histories in a fun and rewarding way.
